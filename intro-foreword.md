@@ -10,15 +10,11 @@ Andreas Arnold, RChain Europe
 
 Grace Rachmany, DAO Leadership
 
-> Very VUCA, Occupy movement veteran and other movements. Used to conflict. Interested in creating cybernetics relations, what we create here is super linked. Have some drafts. Let’s imagine all info on blockchain was collected in the space form / orbits \(can send more info\). Would be very important to see knowledge, so other people can get the info in a visual way.
-
-Felipe Duarte, Org consultant, DAO Stack
-
-> Collecting and systematizing the info helps seeing patterns, building solid knowledge foundation for any work in the space. Lacking this essential infrastructure can drive us into endless argument about facts,
+> Collecting and systematizing the info helps seeing patterns, building solid knowledge foundation for any work in the space. Lacking this essential infrastructure can drive us into endless argument about the facts.
 
 Max Semenchuk, Dgov Foundation, DAO incubator
 
-> Feel the need to give some context. Now blockchain ecology R&D for multiple projects, part of Genesis DAO since inception. Worked with infrastructural Commons on multiple areas. Most interested in decentralized knowledge production and reducing information asymmetry.
+> Working with blockchain ecology R&D on multiple projects and part of Genesis DAO since inception. Spent my entire life dedicated to scaffolding commons IRL, happy to help develop digital commons as well. Decentralized knowledge production and reducing information asymmetry in the cryptosphere is what brought me here in particular.
 
 Pedro Parrachia, Rhizom, ECSA
 

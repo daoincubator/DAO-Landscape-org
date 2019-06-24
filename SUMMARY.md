@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](README.md)
+* [DAO Landscape Mapping](README.md)
 * [Foreword](intro-foreword.md)
 * [What is Distributed Governance](what-is-distributed-governance.md)
 * [What is DAO](why-care-about-daos.md)
@@ -11,16 +11,10 @@
   * [DASH](layer-1-network-based-governance-case-studies/dash.md)
   * [Aragon Network](layer-1-network-based-governance-case-studies/aragon-network.md)
   * [Genesis](layer-1-network-based-governance-case-studies/genesis.md)
+* [Off-Chain Network Governance Case Studies](off-chain-network-governance/README.md)
+  * [Ethereum](off-chain-network-governance/ethereum.md)
+  * [Grin](off-chain-network-governance/grin.md)
 * [Landscape of On-chain Governance Tools](taxonomy.md)
 * [Further Reading](reading-list.md)
-
-## admin
-
-* [Governance](admin/governance/README.md)
-  * [Tactical 08.05](admin/governance/tactical-08.05.md)
-  * [Tactical 24.04](admin/governance/tactical-24.04.md)
-  * [Tactical \#3](admin/governance/tactical-3.md)
-  * [Tactical \#2](admin/governance/tactical-2-27.03.md)
-  * [Tactical \#1](admin/governance/tactical-1.md)
-* [Plan](admin/plan.md)
+* [Upcoming](plan.md)
 
